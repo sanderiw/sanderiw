@@ -2,7 +2,7 @@
 ```diff
 + I´m passionate about building solutions through code
 + Full stack developer
-+ My goal is to dive deeper and get better everyday
++ Diving deeper and trying to get better everyday
 ```
 --- 
 [![image](https://user-images.githubusercontent.com/42663606/134842820-844f8bee-3b81-4998-bfd8-34fac6311394.png)](https://www.linkedin.com/in/sanderiwase/)
