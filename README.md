@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sander![image](https://user-images.githubusercontent.com/42663606/134842606-8c44134c-1eb6-486d-8988-820edc836b53.png)
+- 👋 Hi, I’m Sander!
+- [image](https://www.linkedin.com/in/sanderiwase/)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
