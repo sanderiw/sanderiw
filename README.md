@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/42663606/134844842-4160cc0f-6673-40a4-9198-618d2e43b425.png)
 ![image](https://user-images.githubusercontent.com/42663606/134844846-38574e69-8c6a-4cb7-98f3-e43b2c322a95.png)
 
-
+<!---
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanderiw&show_icons=true&title_color=00008b)
 )](https://github.com/sanderiw/github-readme-stats)
@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&title_color=00008b)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!---
+
 sanderiw/sanderiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
