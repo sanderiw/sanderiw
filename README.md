@@ -11,7 +11,7 @@
 ### Take a look at some of my projects
 - [Triple Triad Game](https://github.com/sanderiw/triple-triad-game-inspiration)
 - [Iron Study](https://github.com/sanderiw/iron-study)
-- HomePets🐶 - [Server](https://github.com/sanderiw/homepets-back) [Client](https://github.com/sanderiw/homepets-front)
+- HomePets 🐶 - [Server](https://github.com/sanderiw/homepets-back) [Client](https://github.com/sanderiw/homepets-front)
 
 ## Stack
 ![image](https://user-images.githubusercontent.com/42663606/134844739-a591bf86-487c-4719-855d-16ed6bfb7649.png)
