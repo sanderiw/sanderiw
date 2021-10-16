@@ -5,7 +5,7 @@
 + Diving deeper and trying to get better everyday
 ```
 --- 
-[![image](https://user-images.githubusercontent.com/42663606/134842820-844f8bee-3b81-4998-bfd8-34fac6311394.png)](https://www.linkedin.com/in/sanderiwase/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanderiwase/)
 
 
 ### Take a look at some of my projects
@@ -14,23 +14,25 @@
 - HomePets 🐶 - [Server](https://github.com/sanderiw/homepets-back) & [Client](https://github.com/sanderiw/homepets-front)
 
 ## Stack
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://user-images.githubusercontent.com/42663606/134845077-abb5d628-3bcd-4ee4-b2a3-412b96622d25.png)
-![image](https://user-images.githubusercontent.com/42663606/134844782-d98c8922-7878-4d93-a7bf-a62dd8a08117.png)
-![image](https://user-images.githubusercontent.com/42663606/134844790-370f5a5d-d8d7-4ade-a689-ee6b720735eb.png)
-![image](https://user-images.githubusercontent.com/42663606/134844800-3ed0e233-2477-4a9d-8fff-701bfd8104cf.png)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-![image](https://user-images.githubusercontent.com/42663606/134845155-f2d173dd-3ffd-4d9c-a6b6-dc67922c0e2f.png)
-![image](https://user-images.githubusercontent.com/42663606/134844807-77153821-d668-4a7a-8bc5-f89ec4d2f91d.png)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![image](https://user-images.githubusercontent.com/42663606/134845107-9bea8bcf-707c-4d0f-9de1-3da59880b6ed.png)
-![image](https://user-images.githubusercontent.com/42663606/134845110-1e9194d6-f38e-47e8-a941-f2a63688f1b0.png)
-![image](https://user-images.githubusercontent.com/42663606/134845199-8cf5f0b8-fb5d-46c5-b1f4-ba4072053b32.png)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![image](https://user-images.githubusercontent.com/42663606/134844835-2a71b5d9-7e8c-42d7-a1d3-08371ef38f9f.png)
-![image](https://user-images.githubusercontent.com/42663606/134844828-57dccb8c-8669-49bb-89e1-3e7badf2bebf.png)
-![image](https://user-images.githubusercontent.com/42663606/134844842-4160cc0f-6673-40a4-9198-618d2e43b425.png)
-![image](https://user-images.githubusercontent.com/42663606/134844846-38574e69-8c6a-4cb7-98f3-e43b2c322a95.png)
+
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!---
 ## Stats
