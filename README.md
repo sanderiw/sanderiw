@@ -14,7 +14,7 @@
 - HomePets 🐶 - [Server](https://github.com/sanderiw/homepets-back) & [Client](https://github.com/sanderiw/homepets-front)
 
 ## Stack
-![image](https://user-images.githubusercontent.com/42663606/134844739-a591bf86-487c-4719-855d-16ed6bfb7649.png)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://user-images.githubusercontent.com/42663606/134845077-abb5d628-3bcd-4ee4-b2a3-412b96622d25.png)
 ![image](https://user-images.githubusercontent.com/42663606/134844782-d98c8922-7878-4d93-a7bf-a62dd8a08117.png)
 ![image](https://user-images.githubusercontent.com/42663606/134844790-370f5a5d-d8d7-4ade-a689-ee6b720735eb.png)
