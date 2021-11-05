@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Sander!
 ```diff
-+ I´m passionate about building solutions through code that have an impact in time and efficiency
++ I´m passionate about building solutions through code that have an impact
 + Full stack developer
 + Diving deeper and trying to get better everyday
 ```
