@@ -9,9 +9,9 @@
 
 
 ### Take a look at some of my projects
-- [Triple Triad Game](https://github.com/sanderiw/triple-triad-game-inspiration)
-- [Iron Study](https://github.com/sanderiw/iron-study)
-- HomePets 🐶 - [Server](https://github.com/sanderiw/homepets-back) & [Client](https://github.com/sanderiw/homepets-front)
+- [Triple Triad Game](https://github.com/sanderiw/triple-triad-game-inspiration) - Play it [here](https://sanderiw.github.io/triple-triad-game-inspiration/)
+- [Iron Study](https://github.com/sanderiw/iron-study) - Test it [here](https://ironstudy.netlify.app)
+- HomePets 🐶 - [Server](https://github.com/sanderiw/homepets-back) & [Client](https://github.com/sanderiw/homepets-front) - Test it [here](https://home-pets.netlify.app)
 
 ## Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
